@@ -3,7 +3,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   height: 100vh;
-  background: url("https://w0.peakpx.com/wallpaper/934/254/HD-wallpaper-night-moon-forest-dark-landscape.jpg") 50% fixed;
+  background: url("https://www.wallpaperuse.com/wallp/80-805746_m.jpg") 50% fixed;
   background-size: cover;
 }
 
@@ -105,6 +105,7 @@ body {
   }
   
   .title {
+      background-color: #ddd;
     color: rgb(226, 219, 219);
     font-size: 1.2em;
     font-weight: bold;
